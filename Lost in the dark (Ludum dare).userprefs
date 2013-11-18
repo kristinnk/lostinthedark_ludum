@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\player.cs">
+    <Files>
+      <File FileName="Assets\scripts\mazeGenScript.cs" Line="30" Column="15" />
+      <File FileName="Assets\scripts\lookatcamera.cs" Line="9" Column="40" />
+      <File FileName="Assets\scripts\player.cs" Line="82" Column="37" />
+      <File FileName="Assets\scripts\zombieScript.cs" Line="23" Column="38" />
+      <File FileName="Assets\scripts\scriptProjectile.cs" Line="18" Column="1" />
+      <File FileName="Assets\scripts\hpleft.cs" Line="5" Column="1" />
+      <File FileName="Assets\scripts\timerScript.cs" Line="60" Column="78" />
+      <File FileName="Assets\scripts\runningscript.cs" Line="7" Column="17" />
+      <File FileName="Assets\scripts\nextScene.cs" Line="21" Column="42" />
+      <File FileName="Assets\scripts\enterTheGame.cs" Line="11" Column="13" />
+      <File FileName="Assets\scripts\globalVariables.cs" Line="6" Column="16" />
+      <File FileName="Assets\scripts\moverockup.cs" Line="20" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
